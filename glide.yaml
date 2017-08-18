@@ -1,0 +1,5 @@
+package: hyh
+import:
+- package: github.com/garyburd/redigo
+  subpackages:
+  - redis
